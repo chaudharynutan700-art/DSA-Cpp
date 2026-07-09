@@ -8,5 +8,4 @@ int domino=total/2;
 cout<<domino;
 return 0;
 
-
 }
